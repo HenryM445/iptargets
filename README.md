@@ -8,7 +8,7 @@ A simple command-line tool to calculate the IP range, Network ID, and Broadcast 
 - Displays Network ID.
 - Displays Broadcast address.
 - Supports prefixes from /1 to /32.
-- Lightweight, fast, and easy to use.
+- Fast, and easy to use.
 
 - ##  Installation
 

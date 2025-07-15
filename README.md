@@ -19,3 +19,7 @@ Clone the repository and make the script executable:
 -cd IPTargets
 
 -chmod +x IPTargets.sh
+
+-## EXAMPLE
+
+./IPTargets.sh 192.168.1.10/20

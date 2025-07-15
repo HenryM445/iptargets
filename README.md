@@ -15,5 +15,7 @@ A simple command-line tool to calculate the IP range, Network ID, and Broadcast 
 Clone the repository and make the script executable:
 
 -git clone https://github.com/HenryM445/iptargets.git
+
 -cd IPTargets
+
 -chmod +x IPTargets.sh

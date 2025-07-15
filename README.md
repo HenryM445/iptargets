@@ -16,7 +16,7 @@ Clone the repository and make the script executable:
 
 -git clone https://github.com/HenryM445/iptargets.git
 
--cd IPTargets
+-cd iptargets
 
 -chmod +x IPTargets.sh
 
